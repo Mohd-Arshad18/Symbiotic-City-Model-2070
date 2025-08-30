@@ -1,73 +1,43 @@
-# Welcome to your Lovable project
+🌆 Symbi-City: The Futuristic Smart City
 
-## Project info
+🔎 Overview
 
-**URL**: https://lovable.dev/projects/76b71014-b3ad-44cc-b06d-b898095b1953
+Symbi-City is a futuristic 3D interactive smart city designed to showcase how people can experience healthcare, education, transport, work, and social life through their digital twin (avatar). It provides an immersive experience where users interact with different hubs (Clinic, School, Social Hub, Office, etc.), book futuristic pods for transport, and even teleport globally — all within a virtual city.
 
-## How can I edit this code?
+⸻
 
-There are several ways of editing your application.
+🎯 Problem We Solve
 
-**Use Lovable**
+In today’s world, people often face challenges like:
+	•	Accessibility → Reaching clinics, schools, or offices in time.
+	•	Overcrowding → Wasting time in queues for doctors, bookings, or travel.
+	•	Lack of integration → Different services exist separately and don’t connect into one ecosystem.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/76b71014-b3ad-44cc-b06d-b898095b1953) and start prompting.
+Symbi-City solves these by creating a connected digital ecosystem where your avatar represents you and helps manage your daily activities in one place.
 
-Changes made via Lovable will be committed automatically to this repo.
+⸻
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/76b71014-b3ad-44cc-b06d-b898095b1953) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+✨ Key Features
+	1.	🌍 City Grid with Futuristic Hubs
+	•	A grid-based 3D interface with tiles like:
+	•	Clinic Hub 🏥 → Digital health checkups via your avatar.
+	•	School Hub 🎓 → Interactive classrooms and knowledge sharing.
+	•	Office Hub 🏢 → Work meetings, collaboration, and productivity.
+	•	Social Hub 🎉 → Meet, interact, and engage with others.
+	•	Smart Pod Booking 🚖 → Book pods for transport with availability tracking and destination selection.
+	•	Global Teleport Station 🚀 → Instantly travel to different world cities.
+	•	Houses / Living Spaces 🏠 → Personal space for the avatar.
+	•	Entertainment Hub 🎬 → Relax with music, videos, and AI-generated fun experiences.
+	2.	👤 Gen-Z Avatar
+	•	Instead of emojis, users get a realistic Gen-Z style avatar that stands, moves, and interacts.
+	•	Avatars act as digital twins representing real-world actions.
+	3.	🚖 Smart Pod Booking System
+	•	Check availability of pods in real time.
+	•	Select destination hubs (clinic, school, office, social space, etc.).
+	•	Visual, interactive booking interface.
+	4.	🚀 Global Teleportation
+	•	Unique feature to simulate traveling to global hubs like Tokyo, New York, or Dubai.
+	•	Adds a wow factor, expanding beyond just one city.
+	5.	🌙 Dark Mode UI
+	•	Sleek futuristic look with dark mode.
+	•	Smooth animations, hover effects, and 3D-like visuals inspired by Apple Maps.
